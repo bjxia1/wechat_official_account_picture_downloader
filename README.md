@@ -1,4 +1,12 @@
-### WechatPicDownload
-* function:download pictures from wechat official accounts.
-* just need to insert url of your article.
+### 微信公众号图片下载器
+
+
+
+简单的微信公众号下载器，使用正则表达式实现，图形界面使用的是`Tkinter`库实现。
+
+通过`pyinstaller`打包成`exe`可执行文件。
+
+图形界面如下：
+
+![](E:\CODE\python\爬虫\爬取微信公众号图片\gui.jpg)
 
