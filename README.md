@@ -8,5 +8,5 @@
 
 图形界面如下：
 
-![](E:\CODE\python\爬虫\爬取微信公众号图片\gui.jpg)
+![](gui.jpg)
 
